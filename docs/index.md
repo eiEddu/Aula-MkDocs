@@ -1,6 +1,4 @@
-# Tutorial documentação Topzera 2025
+# KNOW-HOW AGENDAMENTO DE SALAS SOFTWARE
 
-Este documento descrev como fazer documentação com MKDocs.
-moranga cabotia
-
-atualiza
+Proposta do site:
+  Realizar o agendamento de salas para aulas ou eventos dentro do colégio politécnico
